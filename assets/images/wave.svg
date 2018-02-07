@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="147px" viewBox="0 0 1440 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>wave</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1440,147 L1440,0 C1351.6718,34.6666667 1156.00513,52 853,52 C549.994869,52 265.661536,83.6666667 0,147 L1440,147 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="wave" fill="#FFFFFF" xlink:href="#path-1"></use>
+    </g>
+</svg>
