@@ -116,6 +116,11 @@ h3 {
   line-height: 39px;
 }
 
+h5 {
+	font-size: 24px;
+	margin-bottom: 2px;
+}
+
 .button {
 	padding: 20px 50px;
   background-color: $dark;
@@ -146,7 +151,7 @@ strong {
   display: block;
   font-weight: 600;
   font-size: 20px;
-  margin-top: 40px;
+  margin-top: 26px;
   margin-bottom: 10px;
 }
 
@@ -182,7 +187,7 @@ section:focus {
   padding: 60px 0;
 
   h3 {
-    max-width: 600px;
+    max-width: 800px;
   }
 }
 
@@ -234,13 +239,22 @@ section:focus {
         margin-top: 0;
       }
 
-      a, p {
-        font-size: 20px;
-        font-weight: 400;
+      a {
+        font-size: 16px;
+        font-weight: 600;
         margin: 0;
+				color: $blue;
       }
+
+			p {
+				margin-top: 0px;
+			}
     }
   }
+}
+
+.top {
+	margin-bottom: 30px;
 }
 
 .form {
@@ -271,7 +285,7 @@ input[type]::placeholder {
 }
 
 textarea {
-  min-height: 200px;
+  min-height: 360px;
   line-height: 24px;
 }
 
