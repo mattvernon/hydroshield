@@ -172,7 +172,9 @@ section:focus {
         font-size: 16px;
         font-weight: 600;
         margin: 0;
-        color: #475ADF; }
+        color: #475ADF;
+        display: block;
+        margin-bottom: 10px; }
       #contact .wrapper .content p {
         margin-top: 0px; }
 
